@@ -1,0 +1,100 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ProgramaYa!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <p class="logo">Melon</p>
+            <nav>
+                <a href="#somos-proya">Quienes Somos</a>
+                <a href="#nuestros-programas">Nuestros Programas</a>
+                <a href="#caracteristicas">Características</a>
+            </nav>
+        </div>
+    </header>
+
+    <section id="hero">
+        <h1>Agencia de Marketing</h1>
+        <button>APLICÁ YA!</button>
+    </section>
+
+    <section id="somos-proya">
+        <div class="container">
+            <div class="img-container"></div>
+            <div class="texto">
+
+                <h2>Sobre <span class="color-acento">nosotros</span></h2>
+                <p> Somos una agencia de marketing con experiencia, orientada a resultados.<br> 
+                    <br>
+                    Nos destacamos por nuestra Transparencia, Coherencia, Honestidad, Esfuerzo, Dedicación y Capacitación Permanente. <br>
+                    <br>
+                    ¡Somos la mejor opción para ser tu Agencia de Marketing Digital!
+                   
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section id="nuestros-programas">
+        <div class="container">
+            <h2>Nuestros Programas</h2>
+            <div class="programas">
+                <div class="carta">
+                    <h3>marketing digital</h3>
+                    
+                    <p>Diseñamos tu Plan de Marketing totalmente personalizado. Administramos tus perfiles sociales y vías de comunicación.</p>
+                    
+                </div>
+                <div class="carta">
+                    <h3>Publicidad</h3> <br>
+                   <p>Diseñamos las campañas Ads que posicionarán tu marca, escalarán tus ventas y harán crecer tu negocio </p>
+                    
+                </div>
+                <div class="carta">
+                    <h3>Diseño</h3>
+                    <br>
+                 <p>Brindamos soluciones creativas a tu empresa desde una perspectiva moderna y personalizada. </p>
+                   
+                </div>  
+            </div>
+        </div>
+    </section>
+
+    <section id="caracteristicas">
+        <div class="container">
+            <ul>
+               
+                <li>✔️ 100% online</li>
+                <li>✔️ Trabajo en equipo</li>
+                <li>✔️ Visión estratégica </li>
+                <li>✔️ Aprendizaje continuo</li>
+                <li>✔️ Asesorías personalizadas</li>
+                
+                
+    
+                
+                
+            </ul>
+        </div>
+    </section>
+
+    <section id="final">
+        <h2>¿Listo para crecer?</h2>
+        <button>APLICÁ YA!</button>
+    </section>
+
+
+
+
+    <footer>
+        <div class="container">
+            <p>&copy; Desarrollado por Giuliana Della Riva</p>
+        </div>
+    </footer>
+</body>
+</html>
